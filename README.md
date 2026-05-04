@@ -98,15 +98,18 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
