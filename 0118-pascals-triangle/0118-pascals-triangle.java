@@ -8,9 +8,7 @@ class Solution {
           l.add(1);
         }
         ans.add(l);
-       }
 
-       for(int i = 0; i<numRows; i++) {
         for(int j = 1; j<i; j++) {
            ans.get(i).set(j, ans.get(i-1).get(j) + ans.get(i-1).get(j-1));
         }
