@@ -147,6 +147,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,5 +160,6 @@ npm run lint-test     Test all code is linted properly
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
