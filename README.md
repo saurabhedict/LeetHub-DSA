@@ -103,6 +103,7 @@ npm run lint-test     Test all code is linted properly
 | [0075-sort-colors](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0283-move-zeroes) |
 | [0861-score-after-flipping-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0867-transpose-matrix) |
 ## Matrix
@@ -153,6 +154,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/saurabhedict/LeetHub-DSA/tree/master/0443-string-compression) |
 ## Sorting
 |  |
